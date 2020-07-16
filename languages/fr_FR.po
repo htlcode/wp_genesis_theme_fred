@@ -1,0 +1,2471 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: genesis-fred\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-29 14:01+0900\n"
+"PO-Revision-Date: 2019-02-08 13:04+0900\n"
+"Last-Translator: CAISSON Fred\n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Loco-Source-Locale: en-US\n"
+"X-Loco-Project-Id: 58702\n"
+"X-Loco-Api-Version: 1.0.21 20190207-1\n"
+
+#: loco:5bff731472c2c902606a4d11
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: loco:5bff731472c2c902606a4d12
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: loco:5bff731472c2c902606a4d13
+msgid "(Edit)"
+msgstr "(Modifier)"
+
+#: loco:5bff731472c2c902606a4d14
+msgid "(no title)"
+msgstr "(sans titre)"
+
+#: loco:5bff731472c2c902606a4d15
+msgid "- None -"
+msgstr "- Aucun -"
+
+#: loco:5bff731472c2c902606a4d16
+msgid "1 Comment"
+msgstr "1 commentaire"
+
+#: loco:5bff731472c2c902606a4d17
+msgid "404 Page"
+msgstr "Page 404"
+
+#: loco:5bff731472c2c902606a4d18
+msgid "<h3>Comments</h3>"
+msgstr "<h3>Commentaires</h3>"
+
+#: loco:5bff731472c2c902606a4d19
+msgid "<h3>Trackbacks</h3>"
+msgstr "<h3>Rétroliens</h3>"
+
+#: loco:5bff731472c2c902606a4d1a
+msgid "About"
+msgstr "À propos de"
+
+#: loco:5bff731472c2c902606a4d1b
+msgid "Add site description (tagline) to %s on home page?"
+msgstr "Ajouter la description du site (slogan) au %s sur la page d’accueil ?"
+
+#: loco:5bff731472c2c902606a4d1c
+msgid "Add site name to %s on inner pages?"
+msgstr "Ajouter le titre du site dans la balise %s sur les pages internes ?"
+
+#: loco:5bff731472c2c902606a4d1d
+msgid "Additions on left"
+msgstr "Ajout à gauche"
+
+#: loco:5bff731472c2c902606a4d1e
+msgid "Additions on right"
+msgstr "Ajout à droite"
+
+#: loco:5bff731472c2c902606a4d1f
+msgid "Adjacent Posts %s link tags"
+msgstr "Étiquettes de lien pour les articles enfants %s"
+
+#: loco:5bff731472c2c902606a4d20
+msgid "After Entry"
+msgstr "Après l’entrée principale"
+
+#: loco:5bff731472c2c902606a4d21
+msgid "All Categories"
+msgstr "Toutes les Catégories"
+
+#: loco:5bff731472c2c902606a4d22
+msgid ""
+"Another common home page is the \"blog\" type home page, which is common to "
+"most of the free child themes. This shows your latest posts and requires no "
+"additional setup."
+msgstr ""
+"Une autre page typique pour la page d’accueil est le type « blog », qui est "
+"commun à la plupart des thèmes enfants gratuits. Cela affiche vos derniers "
+"articles et ne nécessite pas d’autre réglages spécifiques."
+
+#: loco:5bff731472c2c902606a4d23
+msgid "Apply %s to Author Archives?"
+msgstr "Appliquer %s aux archives des auteurs ?"
+
+#: loco:5bff731472c2c902606a4d24
+msgid "Apply %s to Category Archives?"
+msgstr "Appliquer %s aux archives des catégories ?"
+
+#: loco:5bff731472c2c902606a4d25
+msgid "Apply %s to Date Archives?"
+msgstr "Appliquer %s aux archives des dates ?"
+
+#: loco:5bff731472c2c902606a4d26
+msgid "Apply %s to Entire Site?"
+msgstr "Appliquer %s au site entier ?"
+
+#: loco:5bff731472c2c902606a4d27
+msgid "Apply %s to Search Archives?"
+msgstr "Appliquer %s aux pages des recherches ?"
+
+#: loco:5bff731472c2c902606a4d28
+msgid "Apply %s to Tag Archives?"
+msgstr "Appliquer %s aux archives des étiquettes ?"
+
+#: loco:5bff731472c2c902606a4d29
+msgid "Apply %s to the homepage?"
+msgstr "Appliquer %s à la page d’accueil&nbsp;?"
+
+#: loco:5bff731472c2c902606a4d2a
+msgid "Apply %s to this archive"
+msgstr "Appliquer %s à cette archive"
+
+#: loco:5bff731472c2c902606a4d2b
+msgid "Apply %s to this archive?"
+msgstr "Appliquer %s à cette archive ?"
+
+#: loco:5bff731472c2c902606a4d2c
+msgid "Apply %s to this post/page"
+msgstr "Appliquer %s à cet article/cette page"
+
+#: loco:5bff731472c2c902606a4d2d
+msgid "Apply %s to your site?"
+msgstr "Appliquer %s à votre site ?"
+
+#: loco:5bff731472c2c902606a4d2e
+msgid "Archive"
+msgstr "Archive"
+
+#: loco:5bff731472c2c902606a4d2f
+msgid "Archive Headline"
+msgstr "En-tête de l’archive"
+
+#: loco:5bff731472c2c902606a4d30
+msgid "Archive Intro Text"
+msgstr "Texte d’introduction des archives"
+
+#: loco:5bff731472c2c902606a4d31
+msgid "Archive Settings"
+msgstr "Réglages des archives"
+
+#: loco:5bff731472c2c902606a4d32
+msgid "Archives"
+msgstr "Archives"
+
+#: loco:5bff731472c2c902606a4d33
+msgid "Archives for "
+msgstr "Archives pour "
+
+#: loco:5bff731472c2c902606a4d34
+msgid ""
+"Archives include any pages using the blog template, category pages, tag "
+"pages, date archive, author archives, and the latest posts if there is no "
+"custom home page."
+msgstr ""
+"Les Archives incluent toutes les pages qui utilisent le modèle de page blog, "
+"les archives de catégories, les archives d’étiquettes, les archives de "
+"l’auteur et les derniers articles s’il n’y pas de page d’accueil "
+"personnalisée."
+
+#: loco:5bff731472c2c902606a4d35
+msgid "Archiving"
+msgstr "Archivage"
+
+#: loco:5bff731472c2c902606a4d36
+msgid "Are you sure you want to reset?"
+msgstr "Confirmez-vous la réinitialisation des réglages ?"
+
+#: loco:5bff731472c2c902606a4d37
+msgid "Ascending (1, 2, 3)"
+msgstr "Croissant (1,2,3)"
+
+#: loco:5bff731472c2c902606a4d38
+msgid ""
+"At least one archive should be indexed, but indexing multiple archives will "
+"typically result in a duplicate content penalization (multiple pages with "
+"identical content look manipulative to search engines)."
+msgstr ""
+"Au moins une archive devrait être indexée, mais indexer plusieurs archives "
+"va provoquer des pénalisation pour duplication de contenu (les pages "
+"multiples avec des contenu identiques ne semblent pas normales pour les "
+"moteurs de recherche)."
+
+#: loco:5bff731472c2c902606a4d39
+msgid "Attachment/Media"
+msgstr "Fichier joint / Média"
+
+#: loco:5bff731472c2c902606a4d3a
+msgid "Author Archive SEO Settings"
+msgstr "Réglages SEO pour l'archive auteur"
+
+#: loco:5bff731472c2c902606a4d3b
+msgid "Author Archive Settings"
+msgstr "Réglages pour les archives d'auteur"
+
+#: loco:5bff731472c2c902606a4d3c
+msgid "Author Bio"
+msgstr "Biographie de l'auteur"
+
+#: loco:5bff731472c2c902606a4d3d
+msgid "Author Box"
+msgstr "Biographie de l’auteur"
+
+#: loco:5bff731472c2c902606a4d3e
+msgid "Authors:"
+msgstr "Auteurs :"
+
+#: loco:5bff731472c2c902606a4d3f
+msgid "Below you'll find a few succinct notes on the options for each box:"
+msgstr ""
+"Ci-dessous, vous trouverez des notes succinctes sur les options de chaque "
+"boites :"
+
+#: loco:5bff731472c2c902606a4d40
+msgid "Blog"
+msgstr "Blog"
+
+#: loco:5bff731472c2c902606a4d41
+msgid "Blog Page"
+msgstr "Page Blog"
+
+#: loco:5bff731472c2c902606a4d42
+msgid "Blog Page Template"
+msgstr "Modèle de Blog"
+
+#: loco:5bff731472c2c902606a4d43
+msgid "Breadcrumbs"
+msgstr "Fil d'Ariane"
+
+#: loco:5bff731472c2c902606a4d44
+msgid "Breadcrumbs on 404 Page"
+msgstr "Fil d'Ariane sur la Page 404"
+
+#: loco:5bff731472c2c902606a4d45
+msgid "Breadcrumbs on Archives"
+msgstr "Fil d'Ariane sur les Archives"
+
+#: loco:5bff731472c2c902606a4d46
+msgid "Breadcrumbs on Attachment/Media"
+msgstr "Fil d'Ariane sur les Fichiers attachés/Médias"
+
+#: loco:5bff731472c2c902606a4d47
+msgid "Breadcrumbs on Front Page"
+msgstr "Fil d'Ariane sur la Page principale"
+
+#: loco:5bff731472c2c902606a4d48
+msgid "Breadcrumbs on Homepage"
+msgstr "Fil d'Ariane sur l'Accueil"
+
+#: loco:5bff731472c2c902606a4d49
+msgid "Breadcrumbs on Pages"
+msgstr "Fil d'Ariane sur les Pages"
+
+#: loco:5bff731472c2c902606a4d4a
+msgid "Breadcrumbs on Posts Page"
+msgstr "Fil d'Ariane sur le Blogue"
+
+#: loco:5bff731472c2c902606a4d4b
+msgid "Breadcrumbs on Single Posts"
+msgstr "Fil d'Ariane sur les Articles"
+
+#: loco:5bff731472c2c902606a4d4c
+msgid "By"
+msgstr "Par "
+
+#: loco:5bff731472c2c902606a4d4d
+msgid ""
+"By checking the \"Redirect Feed\" box, all traffic to default feed links "
+"will be redirected to the Feedburner link instead."
+msgstr ""
+"En cochant « Rediriger le flux », tout le trafic vers le flux par défaut "
+"sera redirigé vers le lien Feedburner à la place."
+
+#: loco:5bff731472c2c902606a4d4e
+msgid ""
+"By filling in the feed links calling for the main site feed, it will display "
+"as a link to Feedburner."
+msgstr ""
+"En remplissant ce champs pour le flux du site principal, il s’affichera "
+"comme un lien pour Feedburner. "
+
+#: loco:5bff731472c2c902606a4d4f
+msgid "Can Genesis be better? "
+msgstr "Genesis peut-il être meilleur ? "
+
+#: loco:5bff731472c2c902606a4d50
+msgid "Canonical URL"
+msgstr "URL canonique"
+
+#: loco:5bff731472c2c902606a4d51
+msgid "Categories:"
+msgstr "Catégories :"
+
+#: loco:5bff731472c2c902606a4d52
+msgid "Category"
+msgstr "Catégorie"
+
+#: loco:5bff731472c2c902606a4d53
+msgid "Category IDs, comma separated - 1,2,3 for example"
+msgstr "IDs des catégories, séparées par une virgule - 1,2,3 par exemple"
+
+#: loco:5bff731472c2c902606a4d54
+msgid "Center"
+msgstr "Au centre"
+
+#: loco:5bff731472c2c902606a4d55
+msgid "Characters Used: %s"
+msgstr "Caractères utilisés : %s"
+
+#: loco:5bff731472c2c902606a4d56
+msgid "Check For Updates"
+msgstr "Recherche des mises à jour"
+
+#: loco:5bff731472c2c902606a4d57
+msgid ""
+"Child themes that include this type of home page typically include "
+"additional theme-specific tutorials which can be accessed via a sticky post "
+"at the top of that child theme support forum."
+msgstr ""
+"Les thèmes enfants qui incluent ce type de page incluent normalement des "
+"réglages spécifiques. Des tutoriels dédiés sont présents sur le forum de "
+"chaque thème enfant."
+
+#: loco:5bff731472c2c902606a4d58
+msgid "Choose Layout"
+msgstr "Choisir la mise en page"
+
+#: loco:5bff731472c2c902606a4d59
+msgid "Choose the file from your computer and click \"Upload file and Import\""
+msgstr ""
+"Choisir le fichier depuis votre ordinateur et cliquer sur « Mettre en ligne "
+"le fichier et importer »"
+
+#: loco:5bff731472c2c902606a4d5a
+msgid ""
+"Choose your extended \"About Me\" page from the list below. This will be the "
+"page linked to at the end of the about me section."
+msgstr ""
+"Choisir votre page « À propos de moi » dans la liste ci-dessous. Ce sera la "
+"page liée à la fin de la partie « A propos de moi »."
+
+#: loco:5bff731472c2c902606a4d5b
+msgid "Click here to complete the upgrade"
+msgstr "Cliquer ici pour finaliser la mise à jour"
+
+#: loco:5bff731472c2c902606a4d5c
+msgid "Color Scheme"
+msgstr "Schéma de couleur"
+
+#: loco:5bff731472c2c902606a4d5d
+msgid "Color Style"
+msgstr "Style de couleur"
+
+#: loco:5bff731472c2c902606a4d5e
+msgid "Color Style:"
+msgstr "Style de couleur:"
+
+#: loco:5bff731472c2c902606a4d5f
+msgid "Comma separated list"
+msgstr "Liste des mots-clés séparés par une virgule"
+
+#: loco:5bff731472c2c902606a4d60
+msgid "Comment Count"
+msgstr "Nombre de commentaires"
+
+#: loco:5bff731472c2c902606a4d61
+msgid "Comments"
+msgstr "Commentaires"
+
+#: loco:5bff731472c2c902606a4d62
+msgid "Comments and Trackbacks"
+msgstr "Commentaires et rétroliens"
+
+#: loco:5bff731472c2c902606a4d63
+msgid "Content Archives"
+msgstr "Archives des articles"
+
+#: loco:5bff731472c2c902606a4d64
+msgid "Content Character Limit"
+msgstr "Limite du nombre de caractères"
+
+#: loco:5bff731472c2c902606a4d65
+msgid "Content Post Info"
+msgstr "Informations sur le contenu de l’article"
+
+#: loco:5bff731472c2c902606a4d66
+msgid "Content Sidebar"
+msgstr "Contenu Barre latérale"
+
+#: loco:5bff731472c2c902606a4d67
+msgid "Content Sidebar Sidebar"
+msgstr "Contenu Barre latérale Barre latérale"
+
+#: loco:5bff731472c2c902606a4d68
+msgid "Content Type"
+msgstr "Type de contenu"
+
+#: loco:5bff731472c2c902606a4d69
+msgid "Content, Primary Sidebar"
+msgstr "Contenu, Barre latérale 1"
+
+#: loco:5bff731472c2c902606a4d6a
+msgid "Content, Primary Sidebar, Secondary Sidebar"
+msgstr "Contenu, Barre latérale 1, Barre latérale 2"
+
+#: loco:5bff731472c2c902606a4d6b
+msgid "Contributor"
+msgstr "Contributeur"
+
+#: loco:5bff731472c2c902606a4d6c
+msgid "Contributors"
+msgstr "Contributeurs"
+
+#: loco:5bff731472c2c902606a4d6d
+msgid "Copyright"
+msgstr "Copyright"
+
+#: loco:5bff731472c2c902606a4d6e
+msgid "Current page"
+msgstr "Page courante"
+
+#: loco:5bff731472c2c902606a4d6f
+msgid "Custom Archive Headline"
+msgstr "En-tête personnalisé pour la page d'archive"
+
+#: loco:5bff731472c2c902606a4d70
+msgid "Custom Body Class"
+msgstr "Classe CSS personnalisée du corps"
+
+#: loco:5bff731472c2c902606a4d71
+msgid "Custom Description Text"
+msgstr "Description personnalisée"
+
+#: loco:5bff731472c2c902606a4d72
+msgid "Custom Document Title"
+msgstr "Titre personnalisé du document"
+
+#: loco:5bff731472c2c902606a4d73
+msgid "Custom Feeds"
+msgstr "Flux personnalisés"
+
+#: loco:5bff731472c2c902606a4d74
+msgid "Custom Post Class"
+msgstr "Classe CSS personnalisée pour cet article"
+
+#: loco:5bff731472c2c902606a4d75
+msgid "Custom Redirect URL"
+msgstr "URL de redirection personnalisée"
+
+#: loco:5bff731472c2c902606a4d76
+msgid "Custom Text (below)"
+msgstr "Le texte ci-dessous"
+
+#: loco:5bff731472c2c902606a4d77
+msgid "Custom Text Content"
+msgstr "Texte personnalisé"
+
+#: loco:5bff731472c2c902606a4d78
+msgid "Date Modified"
+msgstr "Date de modification"
+
+#: loco:5bff731472c2c902606a4d79
+msgid "Date Published"
+msgstr "Date de publication"
+
+#: loco:5bff731472c2c902606a4d7a
+msgid "Default"
+msgstr "Par défaut"
+
+#: loco:5bff731472c2c902606a4d7b
+msgid "Default Layout"
+msgstr "Mise en page par défaut"
+
+#: loco:5bff731472c2c902606a4d7c
+msgid "Descending (3, 2, 1)"
+msgstr "Descendant (3,2,1)"
+
+#: loco:5bff731472c2c902606a4d7d
+msgid "Determines which side the added title text will go on."
+msgstr "Déterminer de quel côté sera placé le titre ajouté."
+
+#: loco:5bff731472c2c902606a4d7e
+msgid "Directories"
+msgstr "Répertoires"
+
+#: loco:5bff731472c2c902606a4d7f
+msgid "Display"
+msgstr "Afficher"
+
+#: loco:5bff731472c2c902606a4d80
+msgid "Display Category"
+msgstr "Afficher la catégorie"
+
+#: loco:5bff731472c2c902606a4d81
+msgid "Display the featured image?"
+msgstr "Afficher les images à la une ?"
+
+#: loco:5bff731472c2c902606a4d82
+msgid "Display which category"
+msgstr "Afficher quelle catégorie:"
+
+#: loco:5bff731472c2c902606a4d83
+msgid "Displays featured page with thumbnails"
+msgstr "Affiche une page mise en avant avec des miniatures"
+
+#: loco:5bff731472c2c902606a4d84
+msgid "Displays featured posts with thumbnails"
+msgstr "Affiche les articles mis en avant avec leurs miniatures"
+
+#: loco:5bff731472c2c902606a4d85
+msgid "Displays user profile block with Gravatar"
+msgstr "Affiche le bloc du profile d'utilisateur avec un Gravatar"
+
+#: loco:5bff731472c2c902606a4d86
+msgid "Doctitle Settings"
+msgstr "Réglages du titre de la page"
+
+#: loco:5bff731472c2c902606a4d87
+msgid "Document Head Settings"
+msgstr "Réglages de l'en-tête du document"
+
+#: loco:5bff731472c2c902606a4d88
+msgid "Document Title"
+msgstr "Titre du document"
+
+#: loco:5bff731472c2c902606a4d89
+msgid "Document Title Order"
+msgstr "Position du titre du site"
+
+#: loco:5bff731472c2c902606a4d8a
+msgid "Document Title Separator"
+msgstr "Séparateur pour le titre du Document:"
+
+#: loco:5bff731472c2c902606a4d8b
+msgid "Download Export File"
+msgstr "Télécharger le fichier d'exportation"
+
+#: loco:5bff731472c2c902606a4d8c
+msgid "Dynamic Text"
+msgstr "Texte dynamique"
+
+#: loco:5bff731472c2c902606a4d8d
+msgid "Dynamic text"
+msgstr "Texte dynamique"
+
+#: loco:5bff731472c2c902606a4d8e
+msgid ""
+"Each page, post, and term will have its own SEO settings as well. The "
+"default settings are recommended for most users. If you wish to adjust your "
+"SEO settings, the boxes include internal descriptions."
+msgstr ""
+"Chaque page, article et taxonomies auront leur propres réglages SEO. Les "
+"réglages par défaut sont recommandés pour la plupart des utilisateurs. Si "
+"vous voulez ajuster votre propres réglages SEO, les différentes meta boxes "
+"internes intègrent des descriptions spécifiques."
+
+#: loco:5bff731472c2c902606a4d8f
+msgid "Edit Archive Settings"
+msgstr "Modifier les paramètres d'Archive"
+
+#: loco:5bff731472c2c902606a4d90
+msgid "Email"
+msgstr "E-mail"
+
+#: loco:5bff731472c2c902606a4d91
+msgid "Email address"
+msgstr "Adresse e-mail"
+
+#: loco:5bff731472c2c902606a4d92
+msgid "Enable Author Box on this User's Archives?"
+msgstr "Activer la biographie de l’auteur sur chacune de ses archives&nbsp;?"
+
+#: loco:5bff731472c2c902606a4d93
+msgid "Enable Author Box on this User's Posts?"
+msgstr "Activer la biographie de l’auteur sur chacun de ses articles&nbsp;?"
+
+#: loco:5bff731472c2c902606a4d94
+msgid "Enable Breadcrumbs on"
+msgstr "Activer le fil d'Ariane"
+
+#: loco:5bff731472c2c902606a4d95
+msgid "Enable Comments"
+msgstr "Activer les commentaires"
+
+#: loco:5bff731472c2c902606a4d96
+msgid "Enable Genesis Admin Menu?"
+msgstr "Activer le menu Genesis pour l’administrateur"
+
+#: loco:5bff731472c2c902606a4d97
+msgid "Enable Import/Export Submenu?"
+msgstr "Activer le sous-menu Importer/Exporter ?"
+
+#: loco:5bff731472c2c902606a4d98
+msgid "Enable SEO Settings Submenu?"
+msgstr "Activer le sous-menu des réglages SEO ?"
+
+#: loco:5bff731472c2c902606a4d99
+msgid "Enable Trackbacks"
+msgstr "Activer les rétroliens (pour relier les articles interblog entre eux)"
+
+#: loco:5bff731472c2c902606a4d9a
+msgid "Enter Twitter ID:"
+msgstr "Entrer l'identifiant Twitter"
+
+#: loco:5bff731472c2c902606a4d9b
+msgid "Enter your custom comments feed URL"
+msgstr "Entrer votre URI de flux personnalisé pour les commentaires"
+
+#: loco:5bff731472c2c902606a4d9c
+msgid "Enter your custom feed URL"
+msgstr "Entrer votre URI de flux personnalisé"
+
+#: loco:5bff731472c2c902606a4d9d
+msgid "Entry Pagination"
+msgstr "Pagination"
+
+#: loco:5bff731472c2c902606a4d9e
+msgid ""
+"Entry Pagination Technique allows you to select one of two navigation "
+"methods."
+msgstr ""
+"La technique de navigation vous permet de sélectionner une de ces trois "
+"méthode."
+
+#: loco:5bff731472c2c902606a4d9f
+msgid "Entry Pagination Type"
+msgstr "Type de pagination pour le contenu"
+
+#: loco:5bff731472c2c902606a4da0
+msgid "Entry content"
+msgstr "Contenu"
+
+#: loco:5bff731472c2c902606a4da1
+msgid "Entry excerpts"
+msgstr "Extrait"
+
+#: loco:5bff731472c2c902606a4da2
+msgid "Error saving settings."
+msgstr "Erreur lors de l’enregistrement des réglages."
+
+#: loco:5bff731472c2c902606a4da3
+msgid "Exclude Categories"
+msgstr "Catégories exclues"
+
+#: loco:5bff731472c2c902606a4da4
+msgid "Exclude Previously Displayed Posts?"
+msgstr "Exclure les articles précédemment affichés?"
+
+#: loco:5bff731472c2c902606a4da5
+msgid "Exclude Sticky Posts?"
+msgstr "Faut-il exclure les articles épinglés ?"
+
+#: loco:5bff731472c2c902606a4da6
+msgid "Export"
+msgstr "Exporter"
+
+#: loco:5bff731472c2c902606a4da7
+msgid "Export Genesis Settings File"
+msgstr "Exporter un fichier de réglages Genesis"
+
+#: loco:5bff731472c2c902606a4da8
+msgid "Extended page link text"
+msgstr "Texte du lien pour la page de l'auteur"
+
+#: loco:5bff731472c2c902606a4da9
+msgid "Extra Large"
+msgstr "Très grand"
+
+#: loco:5bff731472c2c902606a4daa
+msgid "Extra Large (125px)"
+msgstr "Très grande (125px)"
+
+#: loco:5bff731472c2c902606a4dab
+msgid "Featured Image"
+msgstr "Image mise en avant"
+
+#: loco:5bff731472c2c902606a4dac
+msgid "Filed Under: "
+msgstr "Catégorie(s) : "
+
+#: loco:5bff731472c2c902606a4dad
+msgid "Follow me on Twitter"
+msgstr "Me suivre sur Twitter"
+
+#: loco:5bff731472c2c902606a4dae
+msgid "Footer %d"
+msgstr "Pied de page %d"
+
+#: loco:5bff731472c2c902606a4daf
+msgid "Footer %d widget area."
+msgstr "Zone de Widget pour le pied de page %d."
+
+#: loco:5bff731472c2c902606a4db0
+msgid "Footer Scripts"
+msgstr "Scripts en fin de page"
+
+#: loco:5bff731472c2c902606a4db1
+msgid "For more information:"
+msgstr "Pour plus d’informations&nbsp;:"
+
+#: loco:5bff731472c2c902606a4db2
+msgid ""
+"For most sites either the home page or blog page (using the blog template) "
+"will serve as this index which is why the default is not to index "
+"categories, tags, authors, dates, or searches."
+msgstr ""
+"Pour la plupart des sites soit la page d’accueil ou la page blog (avec le "
+"modèle de page Blog) servira comme page d’indexation et c’est la raison pour "
+"laquelle les réglages par défaut sont de ne pas indexer les catégories, les "
+"étiquettes, les auteurs, les dates ou les recherches."
+
+#: loco:5bff731472c2c902606a4db3
+msgid "Front Page"
+msgstr "Première page"
+
+#: loco:5bff731472c2c902606a4db4
+msgid "Full Width Content"
+msgstr "Contenu en pleine page"
+
+#: loco:5bff731472c2c902606a4db5
+msgid "Genesis"
+msgstr "Genesis"
+
+#: loco:5bff731472c2c902606a4db6
+msgid ""
+"Genesis %s is now available. We have provided 1-click updates for this "
+"theme, so please log into your dashboard and update at your earliest "
+"convenience."
+msgstr ""
+"Genesis %s est maintenant disponible. Nous avons programmé une mise à jour "
+"en un clic pour ce thème."
+
+#: loco:5bff731472c2c902606a4db7
+msgid "Genesis - Featured Page"
+msgstr "Genesis - Page mise en avant"
+
+#: loco:5bff731472c2c902606a4db8
+msgid "Genesis - Featured Posts"
+msgstr "Genesis - Articles mis en avant"
+
+#: loco:5bff731472c2c902606a4db9
+msgid "Genesis - Import/Export"
+msgstr "Genesis - Importer / Exporter"
+
+#: loco:5bff731472c2c902606a4dba
+msgid "Genesis - SEO Settings"
+msgstr "Genesis - Réglages SEO"
+
+#: loco:5bff731472c2c902606a4dbb
+msgid "Genesis - User Profile"
+msgstr "Genesis - Profil d'utilisateur"
+
+#: loco:5bff731472c2c902606a4dbc
+msgid "Genesis Admin Menus"
+msgstr "Genesis / réglage pour l’administrateur"
+
+#: loco:5bff731472c2c902606a4dbd
+msgid "Genesis Can Be Better"
+msgstr "Genesis peut être meilleur "
+
+#: loco:5bff731472c2c902606a4dbe
+msgid ""
+"Genesis SEO (search engine optimization) is polite, and will disable itself "
+"when most popular SEO plugins (e.g., All-in-One SEO, WordPress SEO, etc.) "
+"are active."
+msgstr ""
+"Genesis SEO (seach engine optimization) est poli et il se désactivera de lui-"
+"même quand les plus plugins SEO les plus connus (par example, All-in-One "
+"SEO, WordPress SEO, etc) sont actifs."
+
+#: loco:5bff731472c2c902606a4dbf
+msgid "Genesis Snippets"
+msgstr "Snippets Genesis"
+
+#: loco:5bff731472c2c902606a4dc0
+msgid "Genesis Tutorials"
+msgstr "Tutoriels Genesis"
+
+#: loco:5bff731472c2c902606a4dc1
+msgid "Genesis database upgraded."
+msgstr "La base de données de Genesis a été mise à jour."
+
+#: loco:5bff731472c2c902606a4dc2
+msgid "Get Support"
+msgstr "Obtenir de l’aide"
+
+#: loco:5bff731472c2c902606a4dc3
+msgid "Go to SEO Settings &rarr;"
+msgstr "Aller aux réglages SEO &rarr;"
+
+#: loco:5bff731472c2c902606a4dc4
+msgid "Go to Theme Settings &rarr;"
+msgstr "Aller aux réglages du thème &rarr;"
+
+#: loco:5bff731472c2c902606a4dc5
+msgid "Google+"
+msgstr "Google+"
+
+#: loco:5bff731472c2c902606a4dc6
+msgid "Gravatar Alignment"
+msgstr "Alignement du Gravatar"
+
+#: loco:5bff731472c2c902606a4dc7
+msgid "Gravatar Size"
+msgstr "Dimension du Gravatar"
+
+#: loco:5bff731472c2c902606a4dc8
+msgid "Header"
+msgstr "En-tête"
+
+#: loco:5bff731472c2c902606a4dc9
+msgid "Header Left"
+msgstr "En-tête gauche"
+
+#: loco:5bff731472c2c902606a4dca
+msgid "Header Right"
+msgstr "En-tête droite"
+
+#: loco:5bff731472c2c902606a4dcb
+msgid "Header Scripts"
+msgstr "Script dans l'entête"
+
+#: loco:5bff731472c2c902606a4dcc
+msgid "Header and Footer Scripts"
+msgstr "Scripts pour l’en-tête et le pied de page"
+
+#: loco:5bff731472c2c902606a4dcd
+msgid "Home"
+msgstr "Accueil"
+
+#: loco:5bff731472c2c902606a4dce
+msgid "Home Pages"
+msgstr "Page d’accueil"
+
+#: loco:5bff731472c2c902606a4dcf
+msgid "Homepage"
+msgstr "Page d’accueil"
+
+#: loco:5bff731472c2c902606a4dd0
+msgid "Homepage Settings"
+msgstr "Réglages de la page d’accueil"
+
+#: loco:5bff731472c2c902606a4dd1
+msgid "How Home Pages Work"
+msgstr "Comment fonctionne la page d’accueil"
+
+#: loco:5bff731472c2c902606a4dd2
+msgid "I'll manually wrap my own text on the homepage"
+msgstr "Jamais. J’ajouterai mon texte manuellement sur la page d’accueil."
+
+#: loco:5bff731472c2c902606a4dd3
+msgid "ID"
+msgstr "ID"
+
+#: loco:5bff731472c2c902606a4dd4
+msgid ""
+"If the title consists of two parts (original title and optional addition), "
+"then the separator will go in between them."
+msgstr ""
+"Si le titre est composé de deux éléments (titre original et facultatif), "
+"alors le séparateur se placera entre les deux."
+
+#: loco:5bff731472c2c902606a4dd5
+msgid ""
+"If you don’t see an SEO Settings sub menu, then you probably have another "
+"SEO plugin active."
+msgstr ""
+"Si vous ne voyez pas un réglage SEO dans le sous-menu, alors vous avez "
+"probablement un autre plugin SEO actif."
+
+#: loco:5bff731472c2c902606a4dd6
+msgid ""
+"If you enable comments or trackbacks here, it can be disabled on an "
+"individual post or page. If you disable here, they cannot be enabled on an "
+"individual post or page."
+msgstr ""
+"Si vous activez les commentaires ou les rétroliens ici, cela peut être "
+"désactivé sur chaque page ou article. Si vous le désactivez ici, il ne sera "
+"pas possible de l'activer sur une page ou un article individuellement."
+
+#: loco:5bff731472c2c902606a4dd7
+msgid ""
+"If you leave the document title field blank, your site&#8217;s title will be "
+"used instead."
+msgstr "Si vous laissez vide, le titre de votre site sera utilisé à la place."
+
+#: loco:5bff731472c2c902606a4dd8
+msgid ""
+"If you provide an email address above, you will be notified via email when a "
+"new version of Genesis is available."
+msgstr ""
+"Si vous fournissez une adresse de messagerie ci-dessus, vous serez averti "
+"par e-mail quand une nouvelle version de Genesis est disponible."
+
+#: loco:5bff731472c2c902606a4dd9
+msgid ""
+"If you provide an email address, your site will email you when the update "
+"can be performed."
+msgstr ""
+"Si vous saisissez ici une adresse email, votre site vous alertera quand une "
+"mise à jour est disponible. "
+
+#: loco:5bff731472c2c902606a4dda
+msgid ""
+"If you see the menu, then opening that menu item will let you set the "
+"General SEO settings for your site."
+msgstr ""
+"Si vous voyez le menu, alors ouvrir celui-ci vous permettra de régler les "
+"paramètres généraux pour le SEO de votre site."
+
+#: loco:5bff731472c2c902606a4ddb
+msgid ""
+"If you use Feedburner to handle your rss feed(s) you can use this function "
+"to set your site's native feed to redirect to your Feedburner feed."
+msgstr ""
+"Si vous utilisez Feedburner pour gérer vos flux RSS, vous pouvez utiliser "
+"cette fonction pour régler les flux natif de votre site vers le flux de "
+"Feedburner."
+
+#: loco:5bff731472c2c902606a4ddc
+msgid ""
+"If your custom feed(s) are not handled by Feedblitz or Feedburner, do not "
+"use the redirect options."
+msgstr ""
+"Si votre/vos flux personnalisé(s) ne sont pas gérés par Feedblitz ou "
+"Feedburner, n’utilisez pas les options de redirection."
+
+#: loco:5bff731472c2c902606a4ddd
+msgid ""
+"If your theme uses a custom home page and you want to show the latest posts "
+"in a blog format, do not use the blog template. Instead, you need to rename "
+"the home.php file to home-old.php instead."
+msgstr ""
+"Si votre thème utilise une page d’accueil personnalisée et que vous voulez "
+"afficher les derniers articles dans un format de type blog, n’utilisez pas "
+"le modèle de page Blog. À la place, vous devez renommer le fichier home.php "
+"en home-old.php."
+
+#: loco:5bff731472c2c902606a4dde
+msgid "Image Alignment"
+msgstr "Alignement de l’image"
+
+#: loco:5bff731472c2c902606a4ddf
+msgid "Image Alignment:"
+msgstr "Alignement de l'image :"
+
+#: loco:5bff731472c2c902606a4de0
+msgid "Image Size"
+msgstr "Taille de l’image"
+
+#: loco:5bff731472c2c902606a4de1
+msgid "Image Size:"
+msgstr "Taille de l’image&nbsp;:"
+
+#: loco:5bff731472c2c902606a4de2
+msgid "Image logo"
+msgstr "Image du logo"
+
+#: loco:5bff731472c2c902606a4de3
+msgid "Import"
+msgstr "Importer"
+
+#: loco:5bff731472c2c902606a4de4
+msgid "Import Genesis Settings File"
+msgstr "Importer un fichier de réglages Genesis"
+
+#: loco:5bff731472c2c902606a4de5
+msgid "Import/Export"
+msgstr "Importer / Exporter"
+
+#: loco:5bff731472c2c902606a4de6
+msgid ""
+"In the General Settings you can select a specific category to display from "
+"the drop down menu, and exclude categories by ID, or even select how many "
+"posts you'd like to display on this page."
+msgstr ""
+"Dans les Réglages généraux, vous pouvez sélectionner une catégorie "
+"spécifique à afficher dans le menu déroulant, et exclure des catégories par "
+"ID, ou même sélectionner le nombre d’articles que vous souhaitez afficher "
+"sur cette page."
+
+#: loco:5bff731472c2c902606a4de7
+msgid ""
+"In the Genesis Theme Settings you may change the site wide Content Archives "
+"options to control what displays in the site's Archives."
+msgstr ""
+"Dans les Réglages du Thème Genesis vous pouvez changer la longueur du "
+"Contenu dans les Archives afin de contrôler ce qui s’affiche sur les "
+"Archives du site."
+
+#: loco:5bff731472c2c902606a4de8
+msgid "Include Shortlink tag?"
+msgstr "Inclure les balises des liens court ?"
+
+#: loco:5bff731472c2c902606a4de9
+msgid "Include Windows Live Writer Support Tag?"
+msgstr "Inclure la fenêtre pour le support des étiquettes de Live Writer ?"
+
+#: loco:5bff731472c2c902606a4dea
+msgid "Include the Featured Image?"
+msgstr "Inclure l’image mise en avant de l’article&nbsp;?"
+
+#: loco:5bff731472c2c902606a4deb
+msgid "Indexing"
+msgstr "Indexation"
+
+#: loco:5bff731472c2c902606a4dec
+msgid "Information"
+msgstr "Informations"
+
+#: loco:5bff731472c2c902606a4ded
+msgid ""
+"It also does not include other settings for plugins, widgets, or post/page/"
+"term/user specific settings."
+msgstr ""
+"Cela n'inclue pas les autres réglages qui concernent plugins, widget ou "
+"réglages spécifiques pour les articles/pages/taxonomies/utilisateurs."
+
+#: loco:5bff731472c2c902606a4dee
+msgid ""
+"It may also be coupled with the second field \"Limit content to [___] "
+"characters\" to limit the content to a specific number of letters or spaces. "
+"This will strip any HTML, but allows for more precise and easily changed "
+"lengths than the excerpt."
+msgstr ""
+"Cela peut également être couplé avec le champs suivant « Limiter le contenu "
+"à [___] caractères » pour limiter le contenu à un nombre spécifique de "
+"lettres ou d’espaces. Ceci réduira tout HTML en texte brut, mais cela permet "
+"d’avoir une longueur plus précise et plus simple à modifier qu’avec "
+"l’utilisation de l’extrait."
+
+#: loco:5bff731472c2c902606a4def
+msgid "JSON"
+msgstr "JSON"
+
+#: loco:5bff731472c2c902606a4df0
+msgid "JavaScript Object Notation"
+msgstr "JavaScript Object Notation"
+
+#: loco:5bff731472c2c902606a4df1
+msgid "Keywords are generally ignored by Search Engines."
+msgstr "Les mots-clés sont en général ignorés par les moteurs de recherches."
+
+#: loco:5bff731472c2c902606a4df2
+msgid "Large"
+msgstr "Grand"
+
+#: loco:5bff731472c2c902606a4df3
+msgid "Large (85px)"
+msgstr "Grande (85px)"
+
+#: loco:5bff731472c2c902606a4df4
+msgid "Layout Settings"
+msgstr "Réglages de la mise en page"
+
+#: loco:5bff731472c2c902606a4df5
+msgid "Lead Developer"
+msgstr "Développeurs"
+
+#: loco:5bff731472c2c902606a4df6
+msgid "Leave a Comment"
+msgstr "Laisser un commentaire"
+
+#: loco:5bff731472c2c902606a4df7
+msgid "Leave empty if you do not want to display a headline."
+msgstr "Laisser vide si vous ne voulez pas afficher d’en-tête."
+
+#: loco:5bff731472c2c902606a4df8
+msgid "Leave empty if you do not want to display any intro text."
+msgstr "Laisser vide si vous ne voulez pas afficher de texte d’introduction"
+
+#: loco:5bff731472c2c902606a4df9
+msgid "Left"
+msgstr "Gauche"
+
+#: loco:5bff731472c2c902606a4dfa
+msgid "Limit content to"
+msgstr "Limiter le contenu à "
+
+#: loco:5bff731472c2c902606a4dfb
+msgid "Limit content to how many characters? (0 for no limit)"
+msgstr "Limiter le contenu à combien de caractères ? (0 pour illimité)"
+
+#: loco:5bff731472c2c902606a4dfc
+msgid "Link Text"
+msgstr "Texte du lien"
+
+#: loco:5bff731472c2c902606a4dfd
+msgid "Link opens in a new window."
+msgstr "Le lien ouvre une nouvelle fenêtre."
+
+#: loco:5bff731472c2c902606a4dfe
+msgid "Load Superfish Script?"
+msgstr "Charger le script Superfish ?"
+
+#: loco:5bff731472c2c902606a4dff
+msgid "Log in"
+msgstr "Se connecter"
+
+#: loco:5bff731472c2c902606a4e00
+msgid "Log out"
+msgstr "Se déconnecter"
+
+#: loco:5bff731472c2c902606a4e01
+msgid "Main"
+msgstr "Principal"
+
+#: loco:5bff731472c2c902606a4e02
+msgid "Medium"
+msgstr "Moyen"
+
+#: loco:5bff731472c2c902606a4e03
+msgid "Medium (65px)"
+msgstr "Moyenne (65px)"
+
+#: loco:5bff731472c2c902606a4e04
+msgid "Meta Description"
+msgstr "Méta description"
+
+#: loco:5bff731472c2c902606a4e05
+msgid "Meta Keywords"
+msgstr "Méta mots-clés"
+
+#: loco:5bff731472c2c902606a4e06
+msgid "Monthly:"
+msgstr "Mois :"
+
+#: loco:5bff731472c2c902606a4e07
+msgid "More Posts from this Category"
+msgstr "Plus d’articles de cette catégorie"
+
+#: loco:5bff731472c2c902606a4e08
+msgid "More Text"
+msgstr "Plus de texte"
+
+#: loco:5bff731472c2c902606a4e09
+msgid "More Text (if applicable)"
+msgstr "Plus de texte (si applicable)"
+
+#: loco:5bff731472c2c902606a4e0a
+msgid "Most Genesis child themes include a custom home page."
+msgstr ""
+"La plupart des thèmes Genesis incluent une page d’accueil personnalisée"
+
+#: loco:5bff731472c2c902606a4e0b
+msgid ""
+"Most search engines do not use Keywords at this time or give them very "
+"little consideration; however, it's worth using in case keywords are given "
+"greater consideration in the future and also to help guide your content. If "
+"the content doesn’t match with your targeted key words, then you may need to "
+"consider your content more carefully."
+msgstr ""
+"La plupart des moteurs de recherche n’utilisent plus les mots-clés ou n’y "
+"attachent pas beaucoup d’importance&nbsp;; cependant, au cas où ils "
+"deviendraient plus important, c’est préférable de les ajouter. Ils guident "
+"votre contenu. Si le contenu ne correspond pas aux mots clés choisis, alors "
+"vous devriez reconsidérer votre contenu avec plus d’attention."
+
+#: loco:5bff731472c2c902606a4e0c
+msgid "Name"
+msgstr "Nom"
+
+#: loco:5bff731472c2c902606a4e0d
+msgid "Navigation"
+msgstr "Navigation"
+
+#: loco:5bff731472c2c902606a4e0e
+msgid "Next Page"
+msgstr "Page suivante"
+
+#: loco:5bff731472c2c902606a4e0f
+msgid "No Content"
+msgstr "Pas de contenu"
+
+#: loco:5bff731472c2c902606a4e10
+msgid "No Label Selected"
+msgstr "Aucun libellé n’est sélectionné"
+
+#: loco:5bff731472c2c902606a4e11
+msgid "No export options available."
+msgstr "Aucune option d’exportation n’est disponible."
+
+#: loco:5bff731472c2c902606a4e12
+msgid ""
+"Noarchive and noindex are explained in the home settings. Here you can "
+"select what other parts of the site to apply these options to."
+msgstr ""
+"Noarchive et noindex sont expliqués dans le réglage de la page d’accueil. "
+"C’est ici que vous pouvez sélectionner quels seront les autres parties de "
+"votre site qui bénéficieront de ces options."
+
+#: loco:5bff731472c2c902606a4e13
+msgid "None"
+msgstr "Aucun"
+
+#: loco:5bff731472c2c902606a4e14
+msgid ""
+"Normally, this should be unchecked. You can also set to enable automatic "
+"updates."
+msgstr ""
+"Normalement, cela devrait être non coché. Vous pouvez aussi régler les mise "
+"à jour en mode automatiques."
+
+#: loco:5bff731472c2c902606a4e15
+msgid "Not found, error 404"
+msgstr "Page non trouvée, erreur 404"
+
+#: loco:5bff731472c2c902606a4e16
+msgid "Not found: "
+msgstr "Nous n’avons pas trouvé&nbsp;:"
+
+#: loco:5bff731472c2c902606a4e17
+msgid "Number of Posts to Offset"
+msgstr "Nombre d’articles à passer"
+
+#: loco:5bff731472c2c902606a4e18
+msgid "Number of Posts to Show"
+msgstr "Nombre d’articles à afficher"
+
+#: loco:5bff731472c2c902606a4e19
+msgid "Numeric"
+msgstr "Numérique"
+
+#: loco:5bff731472c2c902606a4e1a
+msgid ""
+"Once you have saved the download file, you can use the import function on "
+"another site to import this data."
+msgstr ""
+"Une fois que vous avez sauvegardé le fichier téléchargé, vous pourrez "
+"utiliser la fonction importer sur une autre site pour importer vos réglages."
+
+#: loco:5bff731472c2c902606a4e1b
+msgid ""
+"Once you upload an import file, it will automatically overwrite your "
+"existing settings."
+msgstr ""
+"Lors que vous téléchargez un fichier d'importation, il écrasera "
+"automatiquement vos paramètres existants."
+
+#: loco:5bff731472c2c902606a4e1c
+msgid "Order By"
+msgstr "Trier par : "
+
+#: loco:5bff731472c2c902606a4e1d
+msgid "Page"
+msgstr "Page"
+
+#: loco:5bff731472c2c902606a4e1e
+msgid "Page "
+msgstr "Page"
+
+#: loco:5bff731472c2c902606a4e1f
+msgid "Pages"
+msgstr "Pages"
+
+#: loco:5bff731472c2c902606a4e20
+msgid "Pages:"
+msgstr "Pages :"
+
+#: loco:5bff731472c2c902606a4e21
+msgid "Parent"
+msgstr "Parent"
+
+#: loco:5bff731472c2c902606a4e22
+msgid "Please Activate a Genesis Child Theme:"
+msgstr "Veuillez activer un thème enfant de Genesis:"
+
+#: loco:5bff731472c2c902606a4e23
+msgid ""
+"Please select the color style from the drop down list and save your settings."
+msgstr ""
+"Veuillez sélectionner le style de couleur depuis le menu déroulant et "
+"enregister vos réglages."
+
+#: loco:5bff731472c2c902606a4e24
+msgid "Posts"
+msgstr "Articles"
+
+#: loco:5bff731472c2c902606a4e25
+msgid "Posts Page"
+msgstr "Page d’articles"
+
+#: loco:5bff731472c2c902606a4e26
+msgid "Posts per Page"
+msgstr "Articles par page"
+
+#: loco:5bff731472c2c902606a4e27
+msgid "Previous / Next"
+msgstr "Précédent / Suivant"
+
+#: loco:5bff731472c2c902606a4e28
+msgid "Previous Page"
+msgstr "Page précédente"
+
+#: loco:5bff731472c2c902606a4e29
+msgid "Primary Navigation Extras"
+msgstr "Extras pour la navigation principale"
+
+#: loco:5bff731472c2c902606a4e2a
+msgid "Primary Navigation Menu"
+msgstr "Menu de navigation principal"
+
+#: loco:5bff731472c2c902606a4e2b
+msgid "Primary Sidebar"
+msgstr "Barre latérale 1"
+
+#: loco:5bff731472c2c902606a4e2c
+msgid "Primary Sidebar Widget Area"
+msgstr "Zone de Widget pour la \"Barre latérale 1\""
+
+#: loco:5bff731472c2c902606a4e2d
+msgid "Primary Sidebar, Content"
+msgstr "Barre latérale 1, Contenu"
+
+#: loco:5bff731472c2c902606a4e2e
+msgid "Primary Title %s"
+msgstr "Balise %s principale"
+
+#: loco:5bff731472c2c902606a4e2f
+msgid "Project Leads"
+msgstr "Chefs de projet"
+
+#: loco:5bff731472c2c902606a4e30
+msgid ""
+"RSS feed link displays a link to the RSS feed for your site that a reader "
+"can use to subscribe to your site using the feedreader of their choice."
+msgstr ""
+"Le lien Flux RSS affiche un lien vers le flux RSS de votre site qu’un "
+"lecteur peut utiliser pour s’abonner à votre site en utilisant le lecteur "
+"RSS de son choix."
+
+#: loco:5bff731472c2c902606a4e31
+msgid "RSS feed links"
+msgstr "Liens RSS"
+
+#: loco:5bff731472c2c902606a4e32
+msgid "Random"
+msgstr "Aléatoirement"
+
+#: loco:5bff731472c2c902606a4e33
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: loco:5bff731472c2c902606a4e34
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: loco:5bff731472c2c902606a4e35
+msgid "Read more about 301 Redirects"
+msgstr "Lire plus à propos des redirections 301."
+
+#: loco:5bff731472c2c902606a4e36
+msgid "Read more about Custom Canonical URL"
+msgstr "Lire plus à propos des URLs canoniques sur mesure"
+
+#: loco:5bff731472c2c902606a4e37
+msgid "Read more about noarchive"
+msgstr "Lire plus à propos de noarchive"
+
+#: loco:5bff731472c2c902606a4e38
+msgid "Read more about nofollow"
+msgstr "Lire plus à propos de nofollow"
+
+#: loco:5bff731472c2c902606a4e39
+msgid "Read more about noindex"
+msgstr "Lire plus à propos de noindex."
+
+#: loco:5bff731472c2c902606a4e3a
+msgid "Reader Interactions"
+msgstr "Interactions du lecteur"
+
+#: loco:5bff731472c2c902606a4e3b
+msgid "Recent Posts:"
+msgstr "Articles récents :"
+
+#: loco:5bff731472c2c902606a4e3c
+msgid "Redirect Custom Comments Feed?"
+msgstr "Rediriger le flux personnalisé des commentaires&nbsp;?"
+
+#: loco:5bff731472c2c902606a4e3d
+msgid "Redirect Custom Feed?"
+msgstr "Rediriger le flux personnalisé&nbsp;?"
+
+#: loco:5bff731472c2c902606a4e3e
+msgid "Relationship Link Tags"
+msgstr "Relations entre les étiquettes"
+
+#: loco:5bff731472c2c902606a4e3f
+msgid "Released"
+msgstr "Sortie: "
+
+#: loco:5bff731472c2c902606a4e40
+msgid "Reset Settings"
+msgstr "Réinitialiser les réglages"
+
+#: loco:5bff731472c2c902606a4e41
+msgid "Return to top of page"
+msgstr "Retour en haut de la page"
+
+#: loco:5bff731472c2c902606a4e42
+msgid "Right"
+msgstr "Droite"
+
+#: loco:5bff731472c2c902606a4e43
+msgid "Robots Meta"
+msgstr "Métadonnées pour les robots (moteurs de recherche)"
+
+#: loco:5bff731472c2c902606a4e44
+msgid "Robots Meta Settings"
+msgstr "Réglages des métadonnées pour les robots"
+
+#: loco:5bff731472c2c902606a4e45
+msgid "Robots Meta Tags"
+msgstr "Étiquettes méta Robots"
+
+#: loco:5bff731472c2c902606a4e46
+msgid "SEO Settings"
+msgstr "Réglages SEO"
+
+#: loco:5bff731472c2c902606a4e47
+msgid "Save Changes"
+msgstr "Sauvegarder les changements"
+
+#: loco:5bff731472c2c902606a4e48
+msgid "Scripts"
+msgstr "Scripts"
+
+#: loco:5bff731472c2c902606a4e49
+msgid "Search"
+msgstr "Chercher"
+
+#: loco:5bff731472c2c902606a4e4a
+msgid "Search Results for:"
+msgstr "Résultats de recherche pour:"
+
+#: loco:5bff731472c2c902606a4e4b
+msgid "Search for "
+msgstr "Recherche pour "
+
+#: loco:5bff731472c2c902606a4e4c
+msgid "Search form"
+msgstr "Champs de recherche"
+
+#: loco:5bff731472c2c902606a4e4d
+msgid ""
+"Search form displays a small search form utilizing the WordPress search "
+"functionality."
+msgstr ""
+"Le Formulaire de recherche affiche un petit formulaire de recherche "
+"utilisant la fonctionnalité de recherche de WordPress."
+
+#: loco:5bff731472c2c902606a4e4e
+msgid "Search this website"
+msgstr "Chercher sur ce site"
+
+#: loco:5bff731472c2c902606a4e4f
+msgid "Secondary"
+msgstr "Secondaire"
+
+#: loco:5bff731472c2c902606a4e50
+msgid "Secondary Navigation Menu"
+msgstr "Menu de navigation secondaire"
+
+#: loco:5bff731472c2c902606a4e51
+msgid "Secondary Sidebar"
+msgstr "Barre latérale 2"
+
+#: loco:5bff731472c2c902606a4e52
+msgid "Secondary Sidebar Widget Area"
+msgstr "Zone de Widget pour la \"Barre latérale 2\""
+
+#: loco:5bff731472c2c902606a4e53
+msgid "Secondary Sidebar, Content, Primary Sidebar"
+msgstr "Barre latérale 2, Contenu, Barre latérale 1"
+
+#: loco:5bff731472c2c902606a4e54
+msgid "Secondary Sidebar, Primary Sidebar, Content"
+msgstr "Barre latérale 2, Barre latérale 1, Contenu"
+
+#: loco:5bff731472c2c902606a4e55
+msgid "Section Headings"
+msgstr "Titres de section"
+
+#: loco:5bff731472c2c902606a4e56
+msgid "Select / Deselect All"
+msgstr "Tout sélectionner / Désélectionner"
+
+#: loco:5bff731472c2c902606a4e57
+msgid "Select Color Style"
+msgstr "Choisir la couleur principal"
+
+#: loco:5bff731472c2c902606a4e58
+msgid "Select Default Layout"
+msgstr "Modèle par défaut"
+
+#: loco:5bff731472c2c902606a4e59
+msgid "Select Layout"
+msgstr "Sélectionner le modèle"
+
+#: loco:5bff731472c2c902606a4e5a
+msgid ""
+"Select a user. The email address for this account will be used to pull the "
+"Gravatar image."
+msgstr ""
+"Sélectionnez un utilisateur. L’adresse e-mail de ce compte sera utilisée "
+"pour ajouter l’image Gravatar"
+
+#: loco:5bff731472c2c902606a4e5b
+msgid "Select one of the following"
+msgstr "Sélectionner un des éléments suivants"
+
+#: loco:5bff731472c2c902606a4e5c
+msgid "Select which text you would like to use as the author description"
+msgstr ""
+"Sélectionner le texte vous voulez utiliser comme biographie de l'auteur"
+
+#: loco:5bff731472c2c902606a4e5d
+msgid "Settings reset."
+msgstr "Réglages réinitialisés."
+
+#: loco:5bff731472c2c902606a4e5e
+msgid "Settings saved."
+msgstr "Réglages enregistrés."
+
+#: loco:5bff731472c2c902606a4e5f
+msgid "Settings successfully imported."
+msgstr "Les réglages ont été importés."
+
+#: loco:5bff731472c2c902606a4e60
+msgid "Shortlink Tag"
+msgstr "Balise de lien court"
+
+#: loco:5bff731472c2c902606a4e61
+msgid "Show Author Archive Link?"
+msgstr "Montrer le lien vers les archives de l'auteur"
+
+#: loco:5bff731472c2c902606a4e62
+msgid "Show Author Gravatar"
+msgstr "Afficher le Gravatar de l’auteur"
+
+#: loco:5bff731472c2c902606a4e63
+msgid "Show Category Archive Link"
+msgstr "Montrer le lien vers l'archive de cette catégorie"
+
+#: loco:5bff731472c2c902606a4e64
+msgid "Show Content"
+msgstr "Montrer le contenu de l'article"
+
+#: loco:5bff731472c2c902606a4e65
+msgid "Show Content Limit"
+msgstr "Montrer un extrait de l'article"
+
+#: loco:5bff731472c2c902606a4e66
+msgid "Show Excerpt"
+msgstr "Montrer l'extrait"
+
+#: loco:5bff731472c2c902606a4e67
+msgid "Show Featured Image"
+msgstr "Afficher l’image mise en avant"
+
+#: loco:5bff731472c2c902606a4e68
+msgid "Show Page Content"
+msgstr "Afficher le contenu de la page"
+
+#: loco:5bff731472c2c902606a4e69
+msgid "Show Page Title"
+msgstr "Affcher le titre de la page"
+
+#: loco:5bff731472c2c902606a4e6a
+msgid "Show Post Info"
+msgstr "Afficher les informations de l’article"
+
+#: loco:5bff731472c2c902606a4e6b
+msgid "Show Post Title"
+msgstr "Afficher le titre de l’article"
+
+#: loco:5bff731472c2c902606a4e6c
+msgid "Sidebar Content"
+msgstr "Barre-latérale Contenu"
+
+#: loco:5bff731472c2c902606a4e6d
+msgid "Sidebar Content Sidebar"
+msgstr "Barre latérale Contenu Barre latérale"
+
+#: loco:5bff731472c2c902606a4e6e
+msgid "Sidebar Sidebar Content"
+msgstr "Barre latérale Barre latérale Contenu"
+
+#: loco:5bff731472c2c902606a4e6f
+msgid "Single Posts"
+msgstr "Articles uniques"
+
+#: loco:5bff731472c2c902606a4e70
+msgid "Site Description (Tagline)"
+msgstr "Description du site (Slogan)"
+
+#: loco:5bff731472c2c902606a4e71
+msgid "Site Layout"
+msgstr "Modèle du site"
+
+#: loco:5bff731472c2c902606a4e72
+msgid "Site Title"
+msgstr "Titre du site"
+
+#: loco:5bff731472c2c902606a4e73
+msgid "Sitemap"
+msgstr "Plan du site"
+
+#: loco:5bff731472c2c902606a4e74
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: loco:5bff731472c2c902606a4e75
+msgid "Skip to footer"
+msgstr "Aller au pied de page"
+
+#: loco:5bff731472c2c902606a4e76
+msgid "Skip to primary navigation"
+msgstr "Passer à la navigation principale"
+
+#: loco:5bff731472c2c902606a4e77
+msgid "Skip to primary sidebar"
+msgstr "Aller à la barre latérale principale"
+
+#: loco:5bff731472c2c902606a4e78
+msgid "Skip to secondary sidebar"
+msgstr "Aller à la barre latérale secondaire"
+
+#: loco:5bff731472c2c902606a4e79
+msgid "Small"
+msgstr "Petit"
+
+#: loco:5bff731472c2c902606a4e7a
+msgid "Small (45px)"
+msgstr "Petite (45px)"
+
+#: loco:5bff731472c2c902606a4e7b
+msgid "Sorry, no content matched your criteria."
+msgstr "Désolé, aucun contenu ne correspond à vos critères."
+
+#: loco:5bff731472c2c902606a4e7c
+msgid "Sort Order"
+msgstr "Ordre de tri"
+
+#: loco:5bff731472c2c902606a4e7d
+msgid "Speak Your Mind"
+msgstr "Exprimez-vous !"
+
+#: loco:5bff731472c2c902606a4e7e
+msgid "StudioPress"
+msgstr "StudioPress"
+
+#: loco:5bff731472c2c902606a4e7f
+msgid "Superfish"
+msgstr "Superfish"
+
+#: loco:5bff731472c2c902606a4e80
+msgid "Tagged With: "
+msgstr "Étiqueté : "
+
+#: loco:5bff731472c2c902606a4e81
+msgid ""
+"The 'Image Size' list is populated by the available image sizes defined in "
+"the theme."
+msgstr ""
+"La liste « Dimension de l’image » est générée par les dimensions d’image "
+"disponibles dans le thème."
+
+#: loco:5bff731472c2c902606a4e82
+msgid ""
+"The 'Include featured image?' setting allows you to show a thumbnail of the "
+"first attached image or currently set featured image."
+msgstr ""
+"Le réglage \"Inclure l'image à la une\" vous permet de montrer une vignette "
+"de page à partir de la première image attachée ou l'image à la Une "
+"sélectionnée."
+
+#: loco:5bff731472c2c902606a4e83
+msgid ""
+"The Archive Intro Text sets the text before the archive entries to introduce "
+"the content to the viewer."
+msgstr ""
+"Le texte d’introduction de l’archive définit le texte précédant les entrées "
+"de l’archive à titre d’information."
+
+#: loco:5bff731472c2c902606a4e84
+msgid ""
+"The Custom Body Class adds a class to the body tag in the HTML to allow CSS "
+"modification exclusively for this post type's archive page."
+msgstr ""
+"La classe Body personnalisé ajoute une classe à la balise body dans le code "
+"HTML pour permettre la modification CSS uniquement pour la page d'archive de "
+"ce type d'article."
+
+#: loco:5bff731472c2c902606a4e85
+msgid ""
+"The Custom Document Title sets the page title as seen in browsers and search "
+"engines. "
+msgstr ""
+"La Titre personnalisé du document définit le titre de la page tel qu’on le "
+"voit dans les navigateurs et les moteurs de recherche."
+
+#: loco:5bff731472c2c902606a4e86
+msgid ""
+"The Display entry excerpt setting will display the first 55 words of the "
+"entry after also stripping any included HTML or the manual/custom excerpt "
+"added in the edit screen."
+msgstr ""
+"Les réglages pour l'affichage de l'extrait montreront les 55 premiers mots "
+"de l'article après avoir enlevé tout HTML inclus ou l'extrait personnalisé "
+"ajouté à la metaboxe dédiée dans chaque article."
+
+#: loco:5bff731472c2c902606a4e87
+msgid ""
+"The Homepage Robots Meta Tags tell search engines how to handle the "
+"homepage. Noindex means not to index the page at all, and it will not appear "
+"in search results. Nofollow means do not follow any links from this page and "
+"noarchive tells them not to make an archive copy of the page."
+msgstr ""
+"Les métadonnées pour les robots vont dire au moteurs de recherche comment "
+"aborder votre page d’accueil. Noindex veut dire de ne pas du tout indexer "
+"les pages, et elles n’apparaitront pas dans les résultats de recherche. "
+"Nofollow veut dire de ne pas suivre les liens depuis cette page et noarchive "
+"dit au moteurs de ne pas faire une copie d’archive de cette page."
+
+#: loco:5bff731472c2c902606a4e88
+msgid ""
+"The Primary Navigation Extras typically display on the right side of your "
+"Primary Navigation menu."
+msgstr ""
+"Les Extras de la navigation principale s’affichent généralement sur ​​le côté "
+"droit de votre menu de navigation principale."
+
+#: loco:5bff731472c2c902606a4e89
+msgid ""
+"The Relationship Link Tags are tags added by WordPress that currently have "
+"no SEO value but slow your site load down. They're disabled by default, but "
+"if you have a specific need&#8212;for a plugin or other non typical "
+"use&#8212;then you can enable as needed here."
+msgstr ""
+"La balise Relationship Link sont des balises ajoutées par WordPress qui "
+"n’ont pas de valeur SEO mais qui ralentissent votre site. Elles sont "
+"désactivées par défaut, mais si vous en avez un besoin spécifique pour une "
+"extension ou un autre usage spécifique, vous pouvez l’activer."
+
+#: loco:5bff731472c2c902606a4e8a
+msgid ""
+"The Robots Meta Tags tell search engines how to handle the archive page. "
+"Noindex means not to index the page at all, and it will not appear in search "
+"results. Nofollow means do not follow any links from this page and noarchive "
+"tells them not to make an archive copy of the page."
+msgstr ""
+"Les balises Meta Robots indiquent aux moteurs de recherche comment gérer la "
+"page d'archive. Noindex signifie de ne pas indexer la page du tout, et celle-"
+"ci n'apparaîtra pas dans les résultats de recherche. Nofollow signifie de ne "
+"pas suivre les liens de cette page et noarchive indique de ne pas faire une "
+"copie d'archive de la page."
+
+#: loco:5bff731472c2c902606a4e8b
+msgid ""
+"The argument, \"context\", has been replaced with \"theme_location\" in the "
+"$args array."
+msgstr ""
+"La propriété \"context\", a été remplacé par \"theme_location\" dans les "
+"$args du array (tableau)"
+
+#: loco:5bff731472c2c902606a4e8c
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr ""
+"Les modifications que vous avez faites seront perdues si vous quittez la "
+"page."
+
+#: loco:5bff731472c2c902606a4e8d
+msgid ""
+"The first option allows you to display the entry content or the entry "
+"excerpt. The Display entry content setting will display the entire entry "
+"including HTML code up to the <!--more--> tag if used (this is HTML for the "
+"comment tag that is not displayed in the browser)."
+msgstr ""
+"La première option vous permet d'afficher le contenu du site ou l'extrait. "
+"L'affichage du contenu affichera tout l'article oui la page incluant le code "
+"HTML jusqu'à la balie <!--more--> si elle est utilisée (la balise HTML pour "
+"le commentaire ne sera par contre pas affichée dans le navigateur)."
+
+#: loco:5bff731472c2c902606a4e8e
+msgid ""
+"The home META description and keywords fill in the meta tags for the home "
+"page. The META description is the short text blurb that appear in search "
+"engine results."
+msgstr ""
+"Les MÉTA description est les MÉTA mots clés seront ajoutés dans les balise "
+"méta de la page d’accueil. La MÉTA description est le résumé qui apparait "
+"sous le titre de votre site dans les résultats du moteur de recherche."
+
+#: loco:5bff731472c2c902606a4e8f
+msgid ""
+"The home doctitle sets what will appear within the %1$s tags (unseen in the "
+"browser) for the home page."
+msgstr ""
+"Le titre de la page d’accueil définit ce qui apparait entre les balises %1$s "
+"(invisible dans le navigateur) pour cette page d’accueil."
+
+#: loco:5bff731472c2c902606a4e90
+msgid "The industry standard for Premium WordPress Themes."
+msgstr "Le standard des thèmes Wordpress premium"
+
+#: loco:5bff731472c2c902606a4e91
+msgid ""
+"The information box allows you to see the current Genesis theme information "
+"and display if desired."
+msgstr ""
+"La boîte de dialogue information vous permet de voir les informations sur le "
+"thème courant Genesis et les afficher si nécessaire."
+
+#: loco:5bff731472c2c902606a4e92
+msgid ""
+"The meta description can be used to determine the text used under the title "
+"on search engine results pages."
+msgstr ""
+"La méta description peut être utilisée pour déterminer le texte qui "
+"s'affiche sous le titre, dans les pages de résultats, suite à une recherche "
+"dans un moteur de recherche."
+
+#: loco:5bff731472c2c902606a4e93
+msgid ""
+"The page you are looking for no longer exists. Perhaps you can return back "
+"to the site's <a href=\"%s\">homepage</a> and see if you can find what you "
+"are looking for. Or, you can try finding it by using the search form below."
+msgstr ""
+"La page que vous souhaitez voir n’existe plus. Peut-être voulez-vous "
+"retourner à la page <a href=\"%s\">d’accueil</a> du site et voir si vous "
+"pouvez trouver ce que vous cherchez. Ou, vous pouvez essayer de la trouver "
+"en utilisant le formulaire de recherche ci-dessous."
+
+#: loco:5bff731472c2c902606a4e94
+msgid ""
+"The page you are looking for no longer exists. Perhaps you can return back "
+"to the site's <a href=\"%s\">homepage</a> and see if you can find what you "
+"are looking for. Or, you can try finding it with the information below."
+msgstr ""
+"La page que vous cherchez n’existe plus. Merci de suivre ce lien pour "
+"retourner à <a href=\"%s\">l’accueil</a>. Vous pouvez également consulter "
+"les archives principales du site ci-dessous."
+
+#: loco:5bff731472c2c902606a4e95
+msgid ""
+"The third type of home page is the new dynamic home page. This is common on "
+"the newest child themes. It will show your latest posts in a blog type "
+"listing unless you put widgets into the home page sidebars."
+msgstr ""
+"Le troisième type de page d’accueil est la page d’accueil dynamique. C’est "
+"typique sur les thèmes enfants les plus récents. Cela affiche vos derniers "
+"articles une fois que vous avez mis des widgets dans les zones dédiées pour "
+"la page d’accueil."
+
+#: loco:5bff731472c2c902606a4e96
+msgid "Theme SEO Settings"
+msgstr "Réglages SEO du thème"
+
+#: loco:5bff731472c2c902606a4e97
+msgid "Theme Settings"
+msgstr "Réglages du thème"
+
+#: loco:5bff731472c2c902606a4e98
+msgid ""
+"There are some special features of the Blog Template that allow you to "
+"specify which category to show on each page using the template, which is "
+"helpful if you have a \"News\" category (or something else) that you want to "
+"display separately."
+msgstr ""
+"Il y a quelques particularités dans le modèle Blog qui vous permettent de "
+"spécifier la catégorie à afficher sur chaque page utilisant le modèle, ce "
+"qui est utile si vous avez une catégorie « Actualités » (ou autre chose) que "
+"vous souhaitez afficher séparément."
+
+#: loco:5bff731472c2c902606a4e99
+msgid "There was a problem importing your settings. Please try again."
+msgstr "Il y a eu un problème en important vos réglages. Veuillez réessayer."
+
+#: loco:5bff731472c2c902606a4e9a
+msgid ""
+"These are the homepage specific SEO settings. Note: these settings will not "
+"apply if a static page is set as the front page. If you're using a static "
+"WordPress page as your hompage, you'll need to set the SEO settings on that "
+"particular page."
+msgstr ""
+"Ceux-ci sont les réglages SEO spécifiques pour la page d'accueil. Note: ces "
+"réglages ne seront pas appliqués si une page statique est choisie comme page "
+"d'accueil. Si vous utilisez ce type de page (statique), vous aurez besoin de "
+"faire vos réglages SEO sur cette page."
+
+#: loco:5bff731472c2c902606a4e9b
+msgid "These options can be extended or limited by the child theme."
+msgstr ""
+"Ces options peuvent être étendues ou limitées par votre propre thème enfant."
+
+#: loco:5bff731472c2c902606a4e9c
+msgid ""
+"These options can be extended or limited by the child theme. Additionally, "
+"many of the child themes do not allow different layouts on the home page as "
+"they have been designed for a specific home page layout."
+msgstr ""
+"Ces options peuvent être étendues ou limitées par votre propre thème enfant. "
+"En outre, bon nombre de thèmes ne permettent pas différentes mises en page "
+"sur la page d’accueil puisqu’ils ont été conçus pour une mise en page "
+"d’accueil spécifique."
+
+#: loco:5bff731472c2c902606a4e9d
+msgid ""
+"These options will affect any blog listings page, including archive, author, "
+"blog, category, search, and tag pages."
+msgstr ""
+"Ces options auront une incidence sur toutes les pages du blog, y compris les "
+"archives, les pages d'auteurs, les catégories, les pages de recherche et les "
+"pages pour les mots-clefs."
+
+#: loco:5bff731472c2c902606a4e9e
+msgid ""
+"These settings apply to any page given the \"Blog\" page template, not the "
+"homepage or post archive pages."
+msgstr ""
+"Ces réglages seront appliqués à toute page ayant le modèle « Blog » "
+"appliqué. Non à la page d’accueil ou les pages d’archives."
+
+#: loco:5bff731472c2c902606a4e9f
+msgid "These settings apply to this author's archive pages."
+msgstr "Ces réglages sont appliqués pour la page d’archive de cet auteur."
+
+#: loco:5bff731472c2c902606a4ea0
+msgid ""
+"This allows a site wide decision on whether comments and trackbacks "
+"(notifications when someone links to your page) are enabled for posts and "
+"pages."
+msgstr ""
+"Ceci permet à un site d’être notifié quand les commentaires ou les "
+"rétroliens (alerte quand quelqu’un fait un lien vers votre page) sont "
+"activés pour les articles ou les pages."
+
+#: loco:5bff731472c2c902606a4ea1
+msgid "This allows you to import or export Genesis Settings."
+msgstr "Ceci vous permet d’importer ou d’exporter vos réglages Genesis"
+
+#: loco:5bff731472c2c902606a4ea2
+msgid ""
+"This box lets you define where the \"Breadcrumbs\" display. The Breadcrumb "
+"is the navigation tool that displays where a visitor is on the site at any "
+"given moment."
+msgstr ""
+"Cette métaboxe vous permet de définir où le « Fil d’Ariane » sera affiché. "
+"Le fil d’Ariane est l’outil de navigation qui indique à vos visiteurs où ils "
+"se trouvent sur votre site."
+
+#: loco:5bff731472c2c902606a4ea3
+msgid "This cannot be undone"
+msgstr "Ceci ne peut pas être annulé"
+
+#: loco:5bff731472c2c902606a4ea4
+msgid ""
+"This code will output immediately before the closing %s tag in the document "
+"source."
+msgstr ""
+"Ce code s’exécute immédiatement avant la fermeture de la balise %s dans le "
+"code source la page."
+
+#: loco:5bff731472c2c902606a4ea5
+msgid ""
+"This does not mean the updates happen automatically without your permission; "
+"it will just notify you that an update is available. You must select it to "
+"perform the update."
+msgstr ""
+"Ceci ne veut pas dire que les mises à jour se feront automatiquement sans "
+"votre autorisation ; cela vous préviendra seulement qu’une mise à jour est "
+"disponible. Vous devez la sélectionner pour appliquer la mise à jour."
+
+#: loco:5bff731472c2c902606a4ea6
+msgid ""
+"This home page is typically setup via widgets in the sidebars for the home "
+"page. This can be accessed via the Widgets menu item under Appearance."
+msgstr ""
+"Cette page d’accueil se règle typiquement via les zones de widget dédiées "
+"pour la page d’accueil. Ces zones sont accessibles depuis le menu Widget "
+"dans la section Apparence."
+
+#: loco:5bff731472c2c902606a4ea7
+msgid ""
+"This is specific to Genesis settings and does not includes posts, pages, or "
+"images, which is what the built-in WordPress import/export menu does."
+msgstr ""
+"Ceci est spécifique aux réglages de Genesis et cela n'inclue pas les "
+"articles, pages ou image, ce que l'outil intégré de WordPress importer/"
+"exporter réalise."
+
+#: loco:5bff731472c2c902606a4ea8
+msgid ""
+"This is the header widget area. It typically appears next to the site title "
+"or logo. This widget area is not suitable to display every type of widget, "
+"and works best with a custom menu, a search form, or possibly a text widget."
+msgstr ""
+"C’est l’en-tête de la zone de widget. Elle apparait généralement à côté du "
+"titre ou du logo du site. Cette zone de widget ne convient pas pour afficher "
+"chaque type de widget, et fonctionne mieux avec un menu personnalisé, un "
+"formulaire de recherche, ou peut-être un widget texte."
+
+#: loco:5bff731472c2c902606a4ea9
+msgid ""
+"This is the primary sidebar if you are using a two or three column site "
+"layout option."
+msgstr ""
+"C'est la barre latérale 1 si vous utilisez 2 ou 3 colonnes dans les Options "
+"de mise en page pour Genesis sur chaque page ou article."
+
+#: loco:5bff731472c2c902606a4eaa
+msgid ""
+"This is the secondary sidebar if you are using a three column site layout "
+"option."
+msgstr ""
+"C'est la barre latérale 2 si vous utilisez 2 ou 3 colonnes dans les Options "
+"de mise en page pour Genesis sur chaque page ou article."
+
+#: loco:5bff731472c2c902606a4eab
+msgid ""
+"This layout can also be overridden in the post/page/term layout options on "
+"each post/page/term."
+msgstr ""
+"Cette option de mise en page peut être écrasée dans les options de mises en "
+"page des articles/pages/étiquettes/catégories sur chaque articles/pages/"
+"étiquettes/catégories."
+
+#: loco:5bff731472c2c902606a4eac
+msgid ""
+"This lets you select the default layout for your entire site. On most of the "
+"child themes you'll see these options:"
+msgstr ""
+"Ceci vous permet de choisir le réglage de mise en page par défaut de votre "
+"site. Sur la plupart des thèmes enfants vous verrez ces options :"
+
+#: loco:5bff731472c2c902606a4ead
+msgid ""
+"This lets you select the layout for the archive page. On most of the child "
+"themes you'll see these options:"
+msgstr ""
+"Cela vous permet de choisir la mise en page pour la page d'archive. Sur la "
+"plupart des thèmes enfants, vous verrez les options suivantes:"
+
+#: loco:5bff731472c2c902606a4eae
+msgid ""
+"This option should not be used with the entry content unless the content is "
+"limited to avoid duplicate images."
+msgstr ""
+"Cette option ne devrait pas être utilisée avec le contenu de l'article tant "
+"que l'article est limité pour éviter la duplication des images."
+
+#: loco:5bff731472c2c902606a4eaf
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Cet article est protégé. Veuillez saisir le mot de passe pour pouvoir lire "
+"les commentaires."
+
+#: loco:5bff731472c2c902606a4eb0
+msgid ""
+"This provides you with two fields that will output to the %1$s element of "
+"your site and just before the %2$s tag. These will appear on every page of "
+"the site and are a great way to add analytic code and other scripts. You "
+"cannot use PHP in these fields. If you need to use PHP then you should look "
+"into the Genesis Simple Hooks plugin."
+msgstr ""
+"Ces réglages vous proposent deux champs qui afficheront dans l’élément %1$s "
+"de votre site et juste avant la fermeture de la balise %2$s. Cela "
+"s’affichera sur chaque page du site et c’est la meilleure manière d’ajouter "
+"des codes du type Google Analytics ou autres scripts. Vous ne pouvez pas "
+"ajouter de PHP dans ces champs. Si vous avez besoin d’utiliser du PHP, alors "
+"vous devriez jeter un œil à l’extension Genesis Simple Hooks."
+
+#: loco:5bff731472c2c902606a4eb1
+msgid ""
+"This setup is preferred because it makes it easier to show a blog on the "
+"front page (no need to rename the home.php file) and does not have the "
+"confusion of no content on the home page when the theme is initially "
+"installed."
+msgstr ""
+"Ce réglage est recommandé car il permet d’afficher facilement un blog sur la "
+"page d’accueil (sans renommer le fichier home.php) et il n’y aura pas de "
+"confusion provoqué par du contenu vide, sur la page d’accueil quand le thème "
+"vient d’être installé."
+
+#: loco:5bff731472c2c902606a4eb2
+msgid "This text will be the first paragraph, and display on the first page"
+msgstr ""
+"Ce texte sera le premier paragraphe et sera affiché sur la première page"
+
+#: loco:5bff731472c2c902606a4eb3
+msgid ""
+"This works with the Blog Template, which is a page template that shows your "
+"latest posts. It's what people see when they land on your homepage."
+msgstr ""
+"Cela fonctionne avec le modèle Blog, un modèle de page qui affiche vos "
+"derniers articles. C’est ce que les visiteurs voient quand ils arrivent sur "
+"votre page d’accueil."
+
+#: loco:5bff731472c2c902606a4eb4
+msgid "Title"
+msgstr "Titre"
+
+#: loco:5bff731472c2c902606a4eb5
+msgid ""
+"To add custom text you'll have to either edit a php file, or use a text "
+"widget on a widget enabled homepage."
+msgstr ""
+"Pour ajouter votre texte personnalisé vous devez modifier un fichier PHP, ou "
+"utiliser un widget texte dans une zone de widget de la page d’accueil."
+
+#: loco:5bff731472c2c902606a4eb6
+msgid ""
+"To display an unordered list of more posts from this category, please fill "
+"out the information below"
+msgstr ""
+"Pour afficher une liste de plus d’articles de cette catégorie, veuillez "
+"remplir les informations ci-dessous"
+
+#: loco:5bff731472c2c902606a4eb7
+msgid ""
+"To use this type of home page, make sure your latest posts are set to show "
+"on the front page. You can setup a page with the Blog page template to show "
+"a blog style list of your latest posts on another page."
+msgstr ""
+"Pour utiliser ce type de page d’accueil, veillez à sélectionner Les Derniers "
+"articles dans les options de lecture (Onglet Général). Vous pouvez régler "
+"une autre page pour qu’elle affiche vos derniers articles avec le modèle "
+"Blog dans la page de votre choix."
+
+#: loco:5bff731472c2c902606a4eb8
+msgid "Today's date"
+msgstr "Date d’aujourd’hui"
+
+#: loco:5bff731472c2c902606a4eb9
+msgid "Today's date displays the current date"
+msgstr "La date d’aujourd’hui affiche la date actuelle"
+
+#: loco:5bff731472c2c902606a4eba
+msgid "Twitter Link Text:"
+msgstr "Texte pour le lien Twitter"
+
+#: loco:5bff731472c2c902606a4ebb
+msgid "Twitter link"
+msgstr "Liens Twitter"
+
+#: loco:5bff731472c2c902606a4ebc
+msgid ""
+"Twitter link displays a link to your Twitter profile, as indicated in "
+"Twitter ID setting. Enter only your user name in this setting."
+msgstr ""
+"Le Lien Twitter affiche un lien vers votre profil Twitter, comme indiqué "
+"dans les réglages de votre identifiant Twitter. N'y saisissez que votre nom "
+"d’utilisateur."
+
+#: loco:5bff731472c2c902606a4ebd
+msgid "Updates"
+msgstr "Mises à jour"
+
+#: loco:5bff731472c2c902606a4ebe
+msgid ""
+"Updating Genesis will overwrite the current installed version of Genesis. "
+"Are you sure you want to update?. \"Cancel\" to stop, \"OK\" to update."
+msgstr ""
+"La mise à jour de Genesis écrasera la version actuelle de Genesis. Confirmez-"
+"vous la mise à jour&nbsp;?. « Annuler » pour arrêter, « OK » pour mettre à "
+"jour."
+
+#: loco:5bff731472c2c902606a4ebf
+msgid "Upload File (Maximum Size: %s): "
+msgstr "Mettre en ligne des fichiers : (Taille maximale : %s)"
+
+#: loco:5bff731472c2c902606a4ec0
+msgid "Upload File and Import"
+msgstr "Mettre en ligne les fichiers et importer"
+
+#: loco:5bff731472c2c902606a4ec1
+msgid ""
+"Upload the data file (%s) from your computer and we'll import your settings."
+msgstr ""
+"Téléchargez le fichier de données (%s) à partir de votre ordinateur et nous "
+"importerons vos réglages."
+
+#: loco:5bff731472c2c902606a4ec2
+msgid "Use for site title/logo"
+msgstr "Utilisez pour le titre du site / logo"
+
+#: loco:5bff731472c2c902606a4ec3
+msgid "Use for site title/logo:"
+msgstr "Utiliser pour les site titre/logo :"
+
+#: loco:5bff731472c2c902606a4ec4
+msgid "Use semantic HTML5 page and section headings throughout site?"
+msgstr ""
+"Utiliser HTML5 sémantique pour les entêtes des pages et des sections sur "
+"l'ensemble du site ?"
+
+#: loco:5bff731472c2c902606a4ec5
+msgid "User Permissions"
+msgstr "Permissions utilisateur"
+
+#: loco:5bff731472c2c902606a4ec6
+msgid "Version"
+msgstr "Version : "
+
+#: loco:5bff731472c2c902606a4ec7
+msgid "View My Blog Posts"
+msgstr "Voir mes articles"
+
+#: loco:5bff731472c2c902606a4ec8
+msgid ""
+"We've noticed you are using the Genesis Framework parent theme alone. We "
+"strongly recommend you run a Genesis child theme with it (we even have a "
+"free theme you can use). "
+msgstr ""
+"Nous avons remarqué que vous utilisez le thème Genesis Framework seul. Nous "
+"vous recommandons très vivement de plutôt activer un thème enfant de Genesis "
+"(nous avons même un thème gratuit que vous pouvez utiliser).  "
+
+#: loco:5bff731472c2c902606a4ec9
+msgid "Website"
+msgstr "Site web"
+
+#: loco:5bff731472c2c902606a4eca
+msgid "Welcome to Genesis %s"
+msgstr "Bienvenue sur Genesis %s"
+
+#: loco:5bff731472c2c902606a4ecb
+msgid ""
+"When extending Genesis_Customizer_Base, you must create a register method."
+msgstr ""
+"Lorsque vous étendez Genesis_Customizer_Base, vous devez créer un procédé "
+"d'enregistrement."
+
+#: loco:5bff731472c2c902606a4ecc
+msgid ""
+"When you click the button below, Genesis will generate a data file (%s) for "
+"you to save to your computer."
+msgstr ""
+"Lorsque vous cliquez sur le bouton ci-dessous, Genesis va générer un fichier "
+"de données (%s) que vous pouvez enregistrez sur votre ordinateur."
+
+#: loco:5bff731472c2c902606a4ecd
+msgid "Widgets in this widget area will display after single entries."
+msgstr ""
+"Les widgets dans cette zone vont simplement s’afficher en bas des articles."
+
+#: loco:5bff731472c2c902606a4ece
+msgid "Will display in the %s tag at the top of the first page"
+msgstr "S’affichera dans la balise %s en haut de la première page"
+
+#: loco:5bff731472c2c902606a4ecf
+msgid "Windows Live Writer"
+msgstr "Windows Live Writer"
+
+#: loco:5bff731472c2c902606a4ed0
+msgid "You are here: "
+msgstr "Vous êtes ici : "
+
+#: loco:5bff731472c2c902606a4ed1
+msgid ""
+"You can also add support for Windows Live Writer if you use software that "
+"supports this and include a shortlink tag if this is required by any third "
+"party service."
+msgstr ""
+"Vous pouvez aussi ajouter le support pour Windows Livre Writer si vous "
+"utilisez des logiciels qui l’utilise et qui incluent une balise de lien "
+"court, si c'est requis par des services tiers."
+
+#: loco:5bff731472c2c902606a4ed2
+msgid ""
+"You can export your Genesis-related settings to back them up, or copy them "
+"to another site. Child themes and plugins may add their own checkboxes to "
+"the list. The settings are exported in %s format."
+msgstr ""
+"Vous pouvez exporter vos paramètres liés à Genesis pour les sauvegarder ou "
+"les copier sur un autre site. Les thèmes enfant et les extensions peuvent "
+"ajouter leurs propres cases à cocher dans la liste. Les paramètres sont "
+"exportés dans le format %s."
+
+#: loco:5bff731472c2c902606a4ed3
+msgid ""
+"You can import a file you've previously exported. The file name will start "
+"with %s followed by one or more strings indicating which settings it "
+"contains, finally followed by the date and time it was exported."
+msgstr ""
+"Vous pouvez importer un fichier que vous avez précédemment exporté. Le nom "
+"du fichier commence par %s suivie par une ou plusieurs séquences indiquant "
+"les paramètres qu'il contient, puis suivie de la date et de l'heure de "
+"l'exportation.."
+
+#: loco:5bff731472c2c902606a4ed4
+msgid ""
+"You cannot use %s to create two menus in the same subclass. Please use "
+"separate subclasses for each menu."
+msgstr ""
+"Vous ne pouvez pas utiliser %s pour créer deux menus dans la même sous "
+"classe. Merci d’utiliser différentes sous classes pour chaque menu."
+
+#: loco:5bff731472c2c902606a4ed5
+msgid ""
+"Your Theme Settings provides control over how the theme works. You will be "
+"able to control a lot of common and even advanced features from this menu. "
+"Some child themes may add additional menu items to this list, including the "
+"ability to select different color schemes or set theme specific features "
+"such as a slider. Each of the boxes can be collapsed by clicking the box "
+"header and expanded by doing the same. They can also be dragged into any "
+"order you desire or even hidden by clicking on \"Screen Options\" in the top "
+"right of the screen and \"unchecking\" the boxes you do not want to see. "
+"Below you'll find the items common to every child theme &#x02026;"
+msgstr ""
+"Les Réglages du thème proposent un contrôle sur le fonctionnement de votre "
+"thème. Vous serez capable de modifier des options simples et même complexes "
+"depuis ce menu. Certains thèmes enfants peuvent ajouter d’autres éléments "
+"dans ce menu, incluant la possibilité de choisir des jeux de couleurs ou de "
+"régler certaines options, comme par exemple les diaporamas. Chaque métaboxe "
+"peut se fermer ou s’ouvrir en cliquant sur son en-tête. Elles peuvent aussi "
+"être déplacées par glisser/déposer ou même masquées depuis le menu « Options "
+"de l’écran » dans le coin droit de l’écran, en décochant les métaboxes que "
+"vous voulez masquer. Ci-dessous vous trouverez les éléments communs à tous "
+"les thèmes enfants."
+
+#: loco:5bff731472c2c902606a4ed6
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: loco:5bff731472c2c902606a4ed7
+msgid "[Read More...]"
+msgstr "[Lire la suite...]"
+
+#: loco:5bff731472c2c902606a4ed8
+msgid "[Read more...]"
+msgstr "[Lire la suite...]"
+
+#: loco:5bff731472c2c902606a4ed9
+msgid "about "
+msgstr "à propos"
+
+#: loco:5bff731472c2c902606a4eda
+msgid "ago"
+msgstr "il y a"
+
+#: loco:5bff731472c2c902606a4edb
+msgid "at"
+msgstr "à"
+
+#: loco:5bff731472c2c902606a4edc
+msgid "by"
+msgstr "par "
+
+#: loco:5bff731472c2c902606a4edd
+msgid "characters"
+msgstr "caractères "
+
+#: loco:5bff731472c2c902606a4ede
+msgid "data in style sheet files"
+msgstr "données dans des fichiers de feuille de style"
+
+#: loco:5bff731472c2c902606a4edf
+msgid "decimal or hexidecimal entities"
+msgstr "entité décimale ou hexadécimale"
+
+#: loco:5bff731472c2c902606a4ee0
+msgid "http://my.studiopress.com/themes/genesis/"
+msgstr "http://my.studiopress.com/themes/genesis/"
+
+#: loco:5bff731472c2c902606a4ee1
+msgid "https://www.studiopress.com/genesis-always-use-child-theme/"
+msgstr "https://www.studiopress.com/genesis-always-use-child-theme/"
+
+#: loco:5bff731472c2c902606a4ee2
+msgid "on"
+msgstr "sur"
+
+#: loco:5bff731472c2c902606a4ee3
+msgid "on pages?"
+msgstr "sur les pages ?"
+
+#: loco:5bff731472c2c902606a4ee4
+msgid "on posts?"
+msgstr "sur les articles ?"
+
+#: loco:5bff731472c2c902606a4ee5
+msgid "says"
+msgstr "a écrit"
+
+#: loco:5bff731472c2c902606a4ee6
+msgctxt "separator in time difference"
+msgid "and"
+msgstr "et"
+
+#: loco:5bff731472c2c902606a4ee7
+msgctxt "time difference"
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] "%s jour"
+msgstr[1] "%s jours"
+
+#: loco:5bff731472c2c902606a4ee9
+msgctxt "time difference"
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] "%s heure"
+msgstr[1] "%s heures"
+
+#: loco:5bff731472c2c902606a4eeb
+msgctxt "time difference"
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "%s minute"
+msgstr[1] "%s minutes"
+
+#: loco:5bff731472c2c902606a4eed
+msgctxt "time difference"
+msgid "%s month"
+msgid_plural "%s months"
+msgstr[0] " %s mois"
+msgstr[1] " %s mois"
+
+#: loco:5bff731472c2c902606a4eef
+msgctxt "time difference"
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] "%s seconde"
+msgstr[1] "%s secondes"
+
+#: loco:5bff731472c2c902606a4ef1
+msgctxt "time difference"
+msgid "%s week"
+msgid_plural "%s weeks"
+msgstr[0] "%s semaine"
+msgstr[1] "%s semaines"
+
+#: loco:5bff731472c2c902606a4ef3
+msgctxt "time difference"
+msgid "%s year"
+msgid_plural "%s years"
+msgstr[0] "%s année"
+msgstr[1] "%s années"
+
+#: loco:5bff731472c2c902606a4ef5
+msgctxt "time difference"
+msgid "seconds"
+msgstr "secondes"
+
+#: loco:5bff734272c2c902370d5802
+msgid "About the author"
+msgstr "À propos de l'auteur"
+
+#: loco:5bff736f72c2c9023116bb92
+msgid "Related posts"
+msgstr "Articles similaires"
+
+#: loco:5c5cfce672c2c97b60057af2
+msgid "Updated"
+msgstr "Mis à jour"
